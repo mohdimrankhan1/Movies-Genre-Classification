@@ -3,5 +3,14 @@
 
 Dataset by Machine Learing on Kaggle: https://www.kaggle.com/c/moviegenres/overview
 
-Problem Statement-: Can you predict the genre of move from just 1000 characters of the script.
+#Problem Statement-: Can you predict the genre of move from just 1000 characters of the script.
 
+#Resources Used-: Sklearn, numpy, pandas, nltk, seaborn, matplotlib etc.
+
+                                                         Exploratry Data Analysis with Visulization
+
+![index](https://user-images.githubusercontent.com/76062093/103795171-aa129780-506b-11eb-8563-e1dcaa7fa888.png)
+
+#Algorithm used-:
+
+Multinomial Naive Bayes Classifier
